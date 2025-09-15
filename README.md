@@ -10,6 +10,7 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - **Day04_SwitchCase** → Switch-case kullanımı (haftanın günleri, basit hesap makinesi)
 - **Day05_Arrays** → Diziler, kullanıcıdan değerlerle dizi oluşturma ve ortalama hesaplama
 - **Day06_ArrayOperations** → Dizilerde en küçük ve en büyük sayıyı bulma, küçükten büyüğe ve büyükten küçüğe sıralama
+- **Day07_Methods** → Parametresiz, parametreli ve değer döndüren metotlar (örnekler: selamlama, toplama, çarpma, kare alma)
 
 
 ✨ Her gün yeni bir konu ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
