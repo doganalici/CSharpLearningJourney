@@ -11,7 +11,8 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - **Day05_Arrays** → Diziler, kullanıcıdan değerlerle dizi oluşturma ve ortalama hesaplama
 - **Day06_ArrayOperations** → Dizilerde en küçük ve en büyük sayıyı bulma, küçükten büyüğe ve büyükten küçüğe sıralama
 - **Day07_Methods** → Parametresiz, parametreli ve değer döndüren metotlar (örnekler: selamlama, toplama, çarpma, kare alma)
-- **Day08_MethodsAdvanced** → Metot aşırı yükleme (overloading) 
+- **Day08_MethodsAdvanced** → Metot aşırı yükleme (overloading)
+- **Day09_ArraysAndMethods** → Diziler ve metotların birlikte kullanımı (dizi yazdırma, toplam, ortalama, min–max bulma)
 
 
 ✨ Her gün yeni bir konu ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
