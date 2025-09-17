@@ -13,6 +13,7 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - **Day07_Methods** → Parametresiz, parametreli ve değer döndüren metotlar (örnekler: selamlama, toplama, çarpma, kare alma)
 - **Day08_MethodsAdvanced** → Metot aşırı yükleme (overloading)
 - **Day09_ArraysAndMethods** → Diziler ve metotların birlikte kullanımı (dizi yazdırma, toplam, ortalama, min–max bulma)
+- **Day10_ClassesAndObjects** → Sınıf ve nesne oluşturma, özellik tanımlama, metotlarla nesne bilgilerini yazdırma
 
 
 ✨ Her gün yeni bir konu ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
