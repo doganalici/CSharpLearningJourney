@@ -8,9 +8,10 @@ namespace Day13_Inheritance
 {
     public class Dog:Animal
     {
+        public string Cins { get; set; }
         public void Havla()
         {
-            Console.WriteLine($"{Ad} havlıyor");
+            Console.WriteLine($"Hav hav!");
         }
     }
 }

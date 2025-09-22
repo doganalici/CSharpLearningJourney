@@ -16,5 +16,9 @@ namespace Day13_Inheritance
             Console.WriteLine($"Ad : {Ad}\n" +
                 $"Yaş : {Yas}");
         }
+        public void SesCikar()
+        {
+            Console.WriteLine("Hayvan ses çıkarıyor...");
+        }
     }
 }

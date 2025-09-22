@@ -10,17 +10,26 @@ namespace Day13_Inheritance
     {
         static void Main(string[] args)
         {
-            Dog dog = new Dog() { Ad = "Karabaş", Yas = 3 };
-            dog.BilgilerYazdir();
-            dog.Havla();
-
-            Console.WriteLine("---------------------");
+            Dog dog = new Dog() { Ad = "Karabaş", Yas = 3, Cins = "Golden Retriever" };
+         
 
             Cat cat = new Cat();
             cat.Ad = "Pamuk";
             cat.Yas = 2;
+            cat.Tur = "Tekir";
 
+            Console.WriteLine("KÖPEK BİLGİLERİ");
+            Console.WriteLine("-----------------");
+            dog.BilgilerYazdir();
+            dog.SesCikar();
+            dog.Havla();
+
+            Console.WriteLine("\n**************************\n");
+
+            Console.WriteLine("KEDİ BİLGİLERİ");
+            Console.WriteLine("-----------------");
             cat.BilgilerYazdir();
+            cat.SesCikar();
             cat.Miyavla();
         }
     }

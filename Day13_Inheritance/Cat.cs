@@ -8,9 +8,10 @@ namespace Day13_Inheritance
 {
     public class Cat:Animal
     {
+        public string Tur { get; set; }
         public void Miyavla()
         {
-            Console.WriteLine($"{Ad} miyavlıyor");
+            Console.WriteLine($"Miyav!");
         }
     }
 }
