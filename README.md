@@ -17,6 +17,7 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - **Day11_Constructors** → Constructor (yapıcı metot) kullanımı, parametresiz ve parametreli constructor örnekleri
 - **Day12_Encapsulation** → Encapsulation (kapsülleme) örneği: `Ogrenci` sınıfında `private` alan kullanımı, set/get ile kontrollü erişim
 - **Day13_Inheritance** → Kalıtım (base class ve derived class kullanımı, kod tekrarını azaltma, alt sınıflara özel metot ekleme)
+- **Day14_Polymorphism** → Polymorphism (çok biçimlilik) örneği: Hayvan, Kedi, Köpek, Kuş sınıfları ve override metot kullanımı
 
 
 ✨ Her gün yeni bir konu ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
