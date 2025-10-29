@@ -20,6 +20,7 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - **Day14_Polymorphism** → Polymorphism (çok biçimlilik) örneği: Hayvan, Kedi, Köpek, Kuş sınıfları ve override metot kullanımı
 - **Day15_AbstractClasses** → Abstract sınıflar, soyut metotlar ve kalıtım ile kullanım örnekleri (Dikdörtgen, Daire)
 - Day16_Interface → Interface kullanımı ve implementasyon örneği
+- Day17_Collections → Dictionary koleksiyonlarıyla çalışma (öğrenci ekleme, silme, güncelleme ve listeleme işlemleri)
 
 
 ✨ Her gün yeni bir konu ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
