@@ -21,6 +21,7 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - **Day15_AbstractClasses** → Abstract sınıflar, soyut metotlar ve kalıtım ile kullanım örnekleri (Dikdörtgen, Daire)
 - Day16_Interface → Interface kullanımı ve implementasyon örneği
 - Day17_Collections → Dictionary koleksiyonlarıyla çalışma (öğrenci ekleme, silme, güncelleme ve listeleme işlemleri)
+- Day18_GenericsAndCollections → Koleksiyon yapıları (List, Dictionary, Stack), LIFO mantığıyla Stack örneği
 
 
 ✨ Her gün yeni bir konu ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
