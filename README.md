@@ -22,6 +22,7 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - Day16_Interface → Interface kullanımı ve implementasyon örneği
 - Day17_Collections → Dictionary koleksiyonlarıyla çalışma (öğrenci ekleme, silme, güncelleme ve listeleme işlemleri)
 - Day18_GenericsAndCollections → Koleksiyon yapıları (List, Dictionary, Stack), LIFO mantığıyla Stack örneği
+- Day19_QueueFIFO → Queue (First-In First-Out) yapısı, kuyruk mantığı, Enqueue(), Dequeue(), Peek() kullanımı ve temel kuyruk işlemleri
 
 
 ✨ Her gün yeni bir konu ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
