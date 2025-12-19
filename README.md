@@ -23,6 +23,7 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - Day17_Collections → Dictionary koleksiyonlarıyla çalışma (öğrenci ekleme, silme, güncelleme ve listeleme işlemleri)
 - Day18_GenericsAndCollections → Koleksiyon yapıları (List, Dictionary, Stack), LIFO mantığıyla Stack örneği
 - Day19_QueueFIFO → Queue (First-In First-Out) yapısı, kuyruk mantığı, Enqueue(), Dequeue(), Peek() kullanımı ve temel kuyruk işlemleri
+- Day20_ExceptionHandling → try–catch yapısı, hata yakalama, kullanıcı girişlerinde hata kontrolü ve finally kullanımı
 
 
 ✨ Her gün yeni bir konu ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
