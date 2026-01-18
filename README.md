@@ -28,4 +28,4 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - Day22_ADONET → ADO.NET’e giriş, SqlConnection ile veritabanına bağlanma, try-catch-finally yapısı
 
 
-✨ Her gün yeni bir konu ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
+✨ Yeni konular ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
