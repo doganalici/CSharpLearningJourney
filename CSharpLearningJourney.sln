@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day21_LINQ", "Day21_LINQ\Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day22_ADONET", "Day22_ADONET\Day22_ADONET.csproj", "{014373F4-B59F-481D-B93A-5ACDD33BD8D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day23_DataReadingADO.NET", "Day23_DataReadingADO.NET\Day23_DataReadingADO.NET.csproj", "{69B7FF89-3CD0-4843-B192-6420F5E1E236}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{014373F4-B59F-481D-B93A-5ACDD33BD8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{014373F4-B59F-481D-B93A-5ACDD33BD8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{014373F4-B59F-481D-B93A-5ACDD33BD8D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69B7FF89-3CD0-4843-B192-6420F5E1E236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B7FF89-3CD0-4843-B192-6420F5E1E236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B7FF89-3CD0-4843-B192-6420F5E1E236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B7FF89-3CD0-4843-B192-6420F5E1E236}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
