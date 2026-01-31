@@ -26,6 +26,7 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - Day20_ExceptionHandling → try–catch yapısı, hata yakalama, kullanıcı girişlerinde hata kontrolü ve finally kullanımı
 - Day21_LINQ → LINQ kullanımı, Where ile filtreleme, Select ile proje seçimi, OrderBy ile sıralama ve First() ile temel liste sorguları
 - Day22_ADONET → ADO.NET’e giriş, SqlConnection ile veritabanına bağlanma, try-catch-finally yapısı
+- **Day23_DataReadingADO.NET** → ADO.NET ile veritabanından veri okuma (SqlCommand, SELECT sorgusu, SqlDataReader kullanımı)
 
 
 ✨ Yeni konular ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
