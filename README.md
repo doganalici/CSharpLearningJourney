@@ -28,6 +28,7 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - Day22_ADONET → ADO.NET’e giriş, SqlConnection ile veritabanına bağlanma, try-catch-finally yapısı
 - **Day23_DataReadingADO.NET** → ADO.NET ile veritabanından veri okuma (SqlCommand, SELECT sorgusu, SqlDataReader kullanımı)
 - **Day24_DataInsertADO.NET** → ADO.NET ile veritabanına veri ekleme (INSERT)
+- **Day25_UpdateDeleteADO.NET** → ADO.NET ile veri güncelleme (UPDATE) ve silme (DELETE)
 
 
 
