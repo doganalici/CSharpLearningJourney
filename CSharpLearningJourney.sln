@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day24_DataInsertADO.NET", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day25_UpdateDeleteADO.NET", "Day25_UpdateDeleteADO.NET\Day25_UpdateDeleteADO.NET.csproj", "{3BAA2AC4-F0F2-4D20-819B-1679C33A6DFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day26_MiniCrudConsoleApp", "Day26_MiniCrudConsoleApp\Day26_MiniCrudConsoleApp.csproj", "{CFBD8547-BD00-4F7E-8AF6-7B8AB088F1B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{3BAA2AC4-F0F2-4D20-819B-1679C33A6DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BAA2AC4-F0F2-4D20-819B-1679C33A6DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BAA2AC4-F0F2-4D20-819B-1679C33A6DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFBD8547-BD00-4F7E-8AF6-7B8AB088F1B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBD8547-BD00-4F7E-8AF6-7B8AB088F1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBD8547-BD00-4F7E-8AF6-7B8AB088F1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBD8547-BD00-4F7E-8AF6-7B8AB088F1B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
