@@ -29,7 +29,7 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - **Day23_DataReadingADO.NET** → ADO.NET ile veritabanından veri okuma (SqlCommand, SELECT sorgusu, SqlDataReader kullanımı)
 - **Day24_DataInsertADO.NET** → ADO.NET ile veritabanına veri ekleme (INSERT)
 - **Day25_UpdateDeleteADO.NET** → ADO.NET ile veri güncelleme (UPDATE) ve silme (DELETE)
-
+- **Day26_MiniCrudConsoleApp** → Console uygulamasında menülü mini CRUD sistemi (Listele, Ekle, Güncelle, Sil)
 
 
 ✨ Yeni konular ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
