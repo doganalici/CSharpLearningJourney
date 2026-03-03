@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day26_MiniCrudConsoleApp", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day27_CodeRefactoring", "Day27_CodeRefactoring\Day27_CodeRefactoring.csproj", "{8BDD3799-5387-47EA-8788-E3B5DD70F3A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day28_ModelClassMapping", "Day28_ModelClassMapping\Day28_ModelClassMapping.csproj", "{9BB6B2EB-D69D-44DA-9897-91CACA3616AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{8BDD3799-5387-47EA-8788-E3B5DD70F3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BDD3799-5387-47EA-8788-E3B5DD70F3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BDD3799-5387-47EA-8788-E3B5DD70F3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB6B2EB-D69D-44DA-9897-91CACA3616AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB6B2EB-D69D-44DA-9897-91CACA3616AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB6B2EB-D69D-44DA-9897-91CACA3616AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB6B2EB-D69D-44DA-9897-91CACA3616AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
