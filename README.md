@@ -30,6 +30,7 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - **Day24_DataInsertADO.NET** → ADO.NET ile veritabanına veri ekleme (INSERT)
 - **Day25_UpdateDeleteADO.NET** → ADO.NET ile veri güncelleme (UPDATE) ve silme (DELETE)
 - **Day26_MiniCrudConsoleApp** → Console uygulamasında menülü mini CRUD sistemi (Listele, Ekle, Güncelle, Sil)
+- **Day27_CodeRefactoring** → CRUD uygulamasında kod tekrarını azaltma, bağlantı merkezileştirme ve güvenli veri alma (TryParse) çalışması
 
 
 ✨ Yeni konular ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
