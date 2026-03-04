@@ -33,6 +33,7 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - **Day27_CodeRefactoring** → CRUD uygulamasında kod tekrarını azaltma, bağlantı merkezileştirme ve güvenli veri alma (TryParse) çalışması
 - **Day28_ModelClassMapping** → Veritabanı verisini OOP mantığıyla nesneye dönüştürme (Object Mapping) ve List<T> ile çalışma
 - **Day29_EncapsulationAndProperties** → Encapsulation, private field kullanımı, property içinde validation, computed property (TamAd) mantığı
+- **Day30_Inheritance** → Inheritance kullanımı, base constructor çağrımı, virtual & override ile gerçek senaryoda kalıtım
 
 
 ✨ Yeni konular ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
