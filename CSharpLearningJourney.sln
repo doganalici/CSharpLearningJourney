@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day27_CodeRefactoring", "Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day28_ModelClassMapping", "Day28_ModelClassMapping\Day28_ModelClassMapping.csproj", "{9BB6B2EB-D69D-44DA-9897-91CACA3616AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day29_EncapsulationAndProperties", "Day29_EncapsulationAndProperties\Day29_EncapsulationAndProperties.csproj", "{684D6435-9972-466E-8243-7D60AF479264}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{9BB6B2EB-D69D-44DA-9897-91CACA3616AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BB6B2EB-D69D-44DA-9897-91CACA3616AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BB6B2EB-D69D-44DA-9897-91CACA3616AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684D6435-9972-466E-8243-7D60AF479264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684D6435-9972-466E-8243-7D60AF479264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684D6435-9972-466E-8243-7D60AF479264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684D6435-9972-466E-8243-7D60AF479264}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
