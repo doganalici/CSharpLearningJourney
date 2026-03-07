@@ -39,6 +39,7 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - **Day33_Interface** → Interface oluşturma, sınıfların interface implement etmesi ve interface polymorphism
 - **Day34_Generics** → Generic class oluşturma ve farklı veri tipleriyle kullanımı
 - **Day35_Delegates** → Delegate tanımlama, metod referansı tutma ve farklı metodları aynı delegate ile çalıştırma
+- **Day36_LambdaExpressions** → Lambda expression kullanımı ve Func, Action, Predicate ile birlikte çalışması
 
 
 ✨ Yeni konular ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
