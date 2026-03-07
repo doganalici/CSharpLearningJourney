@@ -36,6 +36,7 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - **Day30_Inheritance** → Inheritance kullanımı, base constructor çağrımı, virtual & override ile gerçek senaryoda kalıtım
 - **Day31_Polymorphism** → List<BaseType> kullanarak farklı türetilmiş nesnelerle runtime polymorphism uygulaması
 - **Day32_Abstraction** → Abstract class ve abstract method kullanarak zorunlu davranış tanımlama
+- **Day33_Interface** → Interface oluşturma, sınıfların interface implement etmesi ve interface polymorphism
 
 
 ✨ Yeni konular ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
