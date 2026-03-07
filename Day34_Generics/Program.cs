@@ -18,6 +18,7 @@ namespace Day34_Generics
 
             Console.WriteLine(sayiKutusu.Deger);
             Console.WriteLine(yaziKutusu.Deger);
+
         }
     }
 }
