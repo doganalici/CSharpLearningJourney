@@ -37,6 +37,7 @@ Amacım, sağlam temellerle ilerlemek ve gelişim sürecimi adım adım belgelem
 - **Day31_Polymorphism** → List<BaseType> kullanarak farklı türetilmiş nesnelerle runtime polymorphism uygulaması
 - **Day32_Abstraction** → Abstract class ve abstract method kullanarak zorunlu davranış tanımlama
 - **Day33_Interface** → Interface oluşturma, sınıfların interface implement etmesi ve interface polymorphism
+- **Day34_Generics** → Generic class oluşturma ve farklı veri tipleriyle kullanımı
 
 
 ✨ Yeni konular ekleniyor ve öğrenme yolculuğum burada kayıt altında tutuluyor.
