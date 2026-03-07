@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day34_Generics", "Day34_Gen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day35_Delegates", "Day35_Delegates\Day35_Delegates.csproj", "{B750375C-BE9C-4761-99BA-8FC41E64F2FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day36_LambdaExpressions", "Day36_LambdaExpressions\Day36_LambdaExpressions.csproj", "{CAD41623-D6FC-4F1B-9726-5BE73B9AE0FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{B750375C-BE9C-4761-99BA-8FC41E64F2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B750375C-BE9C-4761-99BA-8FC41E64F2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B750375C-BE9C-4761-99BA-8FC41E64F2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD41623-D6FC-4F1B-9726-5BE73B9AE0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD41623-D6FC-4F1B-9726-5BE73B9AE0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD41623-D6FC-4F1B-9726-5BE73B9AE0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD41623-D6FC-4F1B-9726-5BE73B9AE0FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
